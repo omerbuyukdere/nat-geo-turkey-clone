@@ -209,6 +209,7 @@
 .footer a {
   text-decoration: none;
   color: gray;
+  font-size: 13px;
 }
 .footer a:hover {
   text-decoration: none;
@@ -216,6 +217,7 @@
 }
 .fa-brands {
   color: gray;
+  font-size: 15px;
 }
 .fa-brands:hover {
   color: #edcb21;
